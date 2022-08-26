@@ -1,2 +1,2 @@
 # Dissertation
-Summarization, segmentation &amp; authentication 
+Summarization, segmentation & authentication 
